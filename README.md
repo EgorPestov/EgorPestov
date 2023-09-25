@@ -5,8 +5,9 @@
 </br></br>My name is Egor and I am frontend developer
 </h1>
 
-<p>💪 SKILLS: JS, TS, REACT, REDUX, GIT, WEBPACK, CRA, VITE, VITEST, REST API</p>
-<p>🎮 HOBBIES: PSYCHOLOGY, PHOTOGRAPHY, CINEMATOGRAPHY</p>
+<p>💪 MY SKILLS: JS, TS, REACT, REDUX, GIT, WEBPACK, CRA, VITE, VITEST, REST API</p>
+<p>🎮 MY HOBBIES: PSYCHOLOGY, PHOTOGRAPHY, CINEMATOGRAPHY</p>
+<p>📝 <a href="https://github.com/EgorPestov" target="_blank">MY CV</a> </p>
 
 <h1></h1>
 <p>Contact me:</p>

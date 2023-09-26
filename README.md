@@ -7,7 +7,7 @@
 
 <p>💪 MY SKILLS: JS, TS, REACT, REDUX, GIT, WEBPACK, CRA, VITE, VITEST, REST API</p>
 <p>🎮 MY HOBBIES: PSYCHOLOGY, PHOTOGRAPHY, CINEMATOGRAPHY</p>
-<p>📝 <a href="https://github.com/EgorPestov" target="_blank">MY CV</a> </p>
+<!-- <p>📝 <a href="https://github.com/EgorPestov" target="_blank">MY CV</a> </p> -->
 
 <h1></h1>
 <p>Contact me:</p>

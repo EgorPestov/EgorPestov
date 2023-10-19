@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there! <a href="https://github.com/EgorPestov" target="_blank"></a> 
+<h1>Hi there! <a href="" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </br></br>My name is Egor and I am frontend developer
 </h1>

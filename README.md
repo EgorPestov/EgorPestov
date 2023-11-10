@@ -7,9 +7,9 @@
 
 <p>💪 MY SKILLS: JS, TS, REACT, REDUX, RTK, GIT, AXIOS, JEST, VITE, VITEST, REST API</p>
 <p>🎮 MY HOBBIES: PSYCHOLOGY, PHOTOGRAPHY, CINEMATOGRAPHY</p>
-<p>📝 <a href="https://egor-pestov.notion.site/Resume-e820d01934554dd884f2867dd58006f1?pvs=4" target="_blank">My CV on English </a> </p>
+<!-- <p>📝 <a href="https://egor-pestov.notion.site/Resume-e820d01934554dd884f2867dd58006f1?pvs=4" target="_blank">My CV on English </a> </p>
 <p>or</p>
-<p>📝 <a href="https://egor-pestov.notion.site/6fc8b3614bd54e09b0c386c92e8b9ef9?pvs=4" target="_blank">My CV on Russian </a> </p>
+<p>📝 <a href="https://egor-pestov.notion.site/6fc8b3614bd54e09b0c386c92e8b9ef9?pvs=4" target="_blank">My CV on Russian </a> </p> -->
 
 <h1></h1>
 <p>Contact me:</p>

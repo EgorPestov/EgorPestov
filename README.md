@@ -1,11 +1,21 @@
 <div align="center">
-
 <h1>Hi there! <a href="" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </br></br>My name is Egor and I am frontend developer
 </h1>
 
-<p>💪 MY SKILLS: JS, TS, REACT, REDUX, RTK, GIT, AXIOS, JEST, VITE, VITEST, REST API</p>
+<p>💪 MY SKILLS:</p>
+<p>+ JavaScript, TypeScript</p>
+<p>+ React</p>
+<p>Redux, RTK</p>
+<p>+ HTML, Pug(Jade)</p>
+<p>+ CSS, SCSS</p>
+<p>+ Git/GitHub</p>
+<p>+ Webpack, Gulp</p>
+<p>+ Vite, Jest, Vitest, unit/e2e-tests</p>
+<p>+ REST API, axios, fetch</p>
+<p>+ Figma</p>
+
 <p>🎮 MY HOBBIES: PSYCHOLOGY, PHOTOGRAPHY, CINEMATOGRAPHY</p>
 <!-- <p>📝 <a href="https://egor-pestov.notion.site/Resume-e820d01934554dd884f2867dd58006f1?pvs=4" target="_blank">My CV on English </a> </p>
 <p>or</p>
